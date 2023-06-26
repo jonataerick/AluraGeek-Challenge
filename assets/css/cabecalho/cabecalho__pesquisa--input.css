@@ -1,0 +1,11 @@
+.cabecalho__pesquisa--input {
+    background: none;
+    border: none;
+    outline: none;
+    width: 100%;
+}
+
+.cabecalho__pesquisa--input::placeholder {
+    color: var(--cor-placeholder);
+    font-family: "Raleway";
+}

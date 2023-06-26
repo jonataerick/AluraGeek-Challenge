@@ -1,0 +1,8 @@
+.banner__div--botao {
+    background-color: var(--cor-botao);
+    border: solid 1px var(--cor-botao);
+    color: var(--branco);
+    font-family: "Raleway";
+    font-size: 1rem;
+    padding: 1rem;
+}

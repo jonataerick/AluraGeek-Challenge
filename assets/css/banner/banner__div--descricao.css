@@ -1,0 +1,6 @@
+.banner__div--descricao {
+    color: var(--branco);
+    font-family: "Raleway";
+    font-size: 1.375rem;
+    font-weight: bold;
+}

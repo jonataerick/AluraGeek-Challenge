@@ -1,0 +1,6 @@
+.banner__div--titulo {
+    color: var(--branco);
+    font-family: "Raleway";
+    font-size: 3.25rem;
+    font-weight: bold;
+}
