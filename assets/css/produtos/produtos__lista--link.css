@@ -1,0 +1,6 @@
+.produtos__lista--link {
+    color: var(--cor-botao);
+    font-family: "Raleway";
+    font-size: 1rem;
+    font-weight: bold;
+}

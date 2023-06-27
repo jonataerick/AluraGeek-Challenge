@@ -1,0 +1,5 @@
+.produtos__sup--botao {
+    align-items: center;
+    display: flex;
+    gap: 1rem;
+}

@@ -1,0 +1,6 @@
+.produtos__lista--item {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}

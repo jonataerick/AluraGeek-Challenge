@@ -1,0 +1,6 @@
+.produtos__sup--titulo {
+    color: var(--cor-fonte);
+    font-family: "Raleway";
+    font-size: 2rem;
+    font-weight: bold;
+}

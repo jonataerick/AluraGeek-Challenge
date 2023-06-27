@@ -1,0 +1,7 @@
+.produtos__sup--mais {
+    color: var(--cor-botao);
+    display: flex;
+    font-family: "Raleway";
+    font-size: 1rem;
+    font-weight: bold;
+}

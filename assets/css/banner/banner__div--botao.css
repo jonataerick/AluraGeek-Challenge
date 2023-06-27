@@ -2,6 +2,7 @@
     background-color: var(--cor-botao);
     border: solid 1px var(--cor-botao);
     color: var(--branco);
+    cursor: pointer;
     font-family: "Raleway";
     font-size: 1rem;
     padding: 1rem;

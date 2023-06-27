@@ -1,0 +1,6 @@
+.produtos__lista--preco {
+    color: var(--cor-fonte);
+    font-family: "Raleway";
+    font-size: 1rem;
+    font-weight: bold;
+}

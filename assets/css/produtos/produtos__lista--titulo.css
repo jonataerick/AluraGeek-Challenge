@@ -1,0 +1,5 @@
+.produtos__lista--titulo {
+    color: var(--cor-fonte);
+    font-family: "Raleway";
+    font-size: 0.875rem;
+}
