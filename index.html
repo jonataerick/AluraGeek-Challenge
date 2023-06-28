@@ -23,6 +23,7 @@
     <link rel="stylesheet" href="assets/css/produtos/produtos__div.css">
     <link rel="stylesheet" href="assets/css/produtos/produtos__sup.css">
     <link rel="stylesheet" href="assets/css/produtos/produtos__sup--titulo.css">
+    <link rel="stylesheet" href="assets/css/produtos/produtos__sup--botao.css">
     <link rel="stylesheet" href="assets/css/produtos/produtos__sup--mais.css">
     <link rel="stylesheet" href="assets/css/produtos/produtos__box.css">
     <link rel="stylesheet" href="assets/css/produtos/produtos__lista.css">
@@ -30,7 +31,17 @@
     <link rel="stylesheet" href="assets/css/produtos/produtos__lista--titulo.css">
     <link rel="stylesheet" href="assets/css/produtos/produtos__lista--preco.css">
     <link rel="stylesheet" href="assets/css/produtos/produtos__lista--link.css">
-    <link rel="stylesheet" href="assets/css/produtos/produtos__sup--botao.css">
+    <link rel="stylesheet" href="assets/css/contato.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__div.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__img.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__div__menu.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__div--lista.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__div--item.css">
+    <link rel="stylesheet" href="assets/css/rodape.css">
+    <link rel="stylesheet" href="assets/css/rodape/rodape__div.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__form.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__form--titulo.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__form__div.css">
     <title>AluraGeek</title>
 </head>
 <body>
@@ -57,7 +68,10 @@
                 <div class="produtos__div">
                     <div class="produtos__sup">
                         <h2 class="produtos__sup--titulo">Star Wars</h2>
-                        <div class="produtos__sup--botao"><a href="#" class="produtos__sup--mais">Ver tudo </a> <a href="#"><img src="assets/img/logo/seta_azul_direita.png" alt="Seta azul para a direita"></a></div>
+                        <div class="produtos__sup--botao">
+                            <a href="#" class="produtos__sup--mais">Ver tudo </a> 
+                            <a href="#"><img src="assets/img/logo/seta_azul_direita.png" alt="Seta azul para a direita"></a>
+                        </div>
                     </div>
                     <div class="produtos__box">
                         <ul class="produtos__lista">
@@ -193,8 +207,36 @@
                     </div>
                 </div>
             </section>
+            <section class="contato">
+                <div class="contato__div">
+                    <img src="assets/img/logo/alurageek.png" alt="Logo AluraGeek" class="contato__img">
+                    <nav class="contato__div__menu">
+                        <ul class="contato__div--lista">
+                            <li class="contato__div--item">Quem somos nós</li>
+                            <li class="contato__div--item">Política de privacidade</li>
+                            <li class="contato__div--item">Programa fidelidade</li>
+                            <li class="contato__div--item">Nossas lojas</li>
+                            <li class="contato__div--item">Quero ser franqueado</li>
+                            <li class="contato__div--item">Anuncie aqui</li>
+                        </ul>
+                    </nav>
+                    <form class="contato__form">
+                        <h3 class="contato__form--titulo">Fale conosco</h3>
+                        <div class="contato__form__div">
+                            <input class="contato__form__input" type="text" name="" id="nome" placeholder="Nome" required>
+                            <textarea class="contato__form__textarea" type="text" rows="5" cols="40" id="mensagem" name="mensagem" placeholder="Mensagem" required></textarea>
+                            <button class="contato__form__botao">Enviar mensagem</button>
+                        </div>
+                    </form>
+                </div>
+            </section>
         </main>
-        
+        <footer class="rodape">
+            <div class="rodape__div">
+                <p>Desenvolvido por Jonata Pereira</p>
+                <p>2023</p>
+            </div>
+        </footer>
         
     </div>
 </body>

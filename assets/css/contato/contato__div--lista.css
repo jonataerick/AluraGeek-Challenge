@@ -1,0 +1,6 @@
+.contato__div--lista {
+    display: flex;
+    flex-direction: column;
+    height: 15rem;
+    justify-content: space-between;
+}

@@ -1,0 +1,7 @@
+.contato__div {
+    display: flex;
+    height: auto;
+    justify-content: space-between;
+    margin: 0 5.5rem;
+    width: 71rem;
+}

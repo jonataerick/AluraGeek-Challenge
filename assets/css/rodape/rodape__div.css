@@ -1,0 +1,10 @@
+.rodape__div {
+    display: flex;
+    flex-direction: column;
+    font-family: "Raleway";
+    font-size: 1rem;
+    gap: 0.5rem;
+    justify-content: center;
+    margin: 0 9.5rem;
+    align-items: center;
+}
