@@ -1,0 +1,9 @@
+.contato__form__botao {
+    background-color: var(--cor-botao);
+    border: none;
+    color: var(--branco);
+    font-family: "Raleway";
+    font-size: 1rem;
+    padding: 1rem;
+    width: 10.3125rem;
+}

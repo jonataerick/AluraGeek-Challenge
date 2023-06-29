@@ -1,0 +1,14 @@
+.contato__form__textarea {
+    border: none;
+    border-radius: 4px 4px 0 0;
+    box-shadow: 0px 1px 1px var(--cor-sombra);
+    font-family: "Raleway";
+    height: 5.125rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+    resize: none;
+}
+
+.contato__form__textarea:focus {
+    outline: solid 1px var(--cor-botao);
+}

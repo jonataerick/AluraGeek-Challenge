@@ -7,6 +7,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Raleway&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/base.css">
     <link rel="stylesheet" href="assets/css/reset.css">
+    <link rel="stylesheet" href="assets/css/container.css">
     <link rel="stylesheet" href="assets/css/menu.css">
     <link rel="stylesheet" href="assets/css/cabecalho/cabecalho.css">
     <link rel="stylesheet" href="assets/css/cabecalho/cabecalho__img.css">
@@ -42,6 +43,9 @@
     <link rel="stylesheet" href="assets/css/contato/contato__form.css">
     <link rel="stylesheet" href="assets/css/contato/contato__form--titulo.css">
     <link rel="stylesheet" href="assets/css/contato/contato__form__div.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__form__input.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__form__textarea.css">
+    <link rel="stylesheet" href="assets/css/contato/contato__form__botao.css">
     <title>AluraGeek</title>
 </head>
 <body>
@@ -223,8 +227,8 @@
                     <form class="contato__form">
                         <h3 class="contato__form--titulo">Fale conosco</h3>
                         <div class="contato__form__div">
-                            <input class="contato__form__input" type="text" name="" id="nome" placeholder="Nome" required>
-                            <textarea class="contato__form__textarea" type="text" rows="5" cols="40" id="mensagem" name="mensagem" placeholder="Mensagem" required></textarea>
+                            <input class="contato__form__input" type="text" name="" id="nome" placeholder="Nome" required autocomplete="off">
+                            <textarea class="contato__form__textarea" type="text" rows="5" cols="40" id="mensagem" name="mensagem" placeholder="Mensagem" required autocomplete="off"></textarea>
                             <button class="contato__form__botao">Enviar mensagem</button>
                         </div>
                     </form>
