@@ -1,0 +1,6 @@
+.login__form__div {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    width: 26.4375rem;
+}
