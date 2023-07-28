@@ -1,0 +1,51 @@
+{
+    "starWars": [
+        {
+            "nome": "Produto XYZ",
+            "imageURL": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.toymania.com.br%2Fstar-wars-figura-vintage-chewbacca---hasbro%2Fp&psig=AOvVaw2qm2H_q4L4_G6NNQxXeaPt&ust=1690544646290000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjc79rnroADFQAAAAAdAAAAABAE",
+            "preço": "R$ 60",
+            "id": "1"
+
+        },
+
+        {
+            "nome": "Produto XYZ",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ02GSqAIQ0UrB2fFVAl6R2ufmdAcmiCFdWQ&usqp=CAU",
+            "preço": "R$ 60",
+            "id": "2"
+
+        },
+
+        {
+            "nome": "Produto XYZ",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvW7Mq3cTC2g39zNVrvEqXyhxXHW4dmR0MWw&usqp=CAU",
+            "preço": "R$ 60",
+            "id": "3"
+
+        },
+
+        {
+            "nome": "Produto XYZ",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsV0K3-4LAJgW8WiHNCWYn7TofUyQ6KFiizw&usqp=CAU",
+            "preço": "R$ 60",
+            "id": "4"
+
+        },
+
+        {
+            "nome": "Produto XYZ",
+            "imageURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS7_CcIP8mB2328_aCWcX0Zi3ioC_2LsA_3Q&usqp=CAU",
+            "preço": "R$ 60",
+            "id": "5"
+
+        },
+
+        {
+            "nome": "Produto XYZ",
+            "imageURL": "https://static3.tcdn.com.br/img/img_prod/460977/garrafa_e_caneca_star_wars_darth_vader_underground_toys_15837_1_20201211174055.jpg",
+            "preço": "R$ 60",
+            "id": "6"
+
+        }
+    ]
+}

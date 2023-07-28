@@ -1,0 +1,51 @@
+{
+    "diversos": [
+        {
+            "nome": "Camisa XYZ",
+            "imageURL": "https://images-americanas.b2w.io/produtos/3358708708/imagens/controle-sem-fio-dual-sense-para-video-game-soony/3358708708_1_large.jpg",
+            "preço": "60",
+            "id": "1"
+
+        }
+
+        {
+            "nome": "Camisa XYZ",
+            "imageURL": "https://http2.mlstatic.com/D_NQ_NP_830750-MLB53272769326_012023-O.webp",
+            "preço": "60",
+            "id": "2"
+
+        }
+
+        {
+            "nome": "Controle e Console XYZ",
+            "imageURL": "https://d3alv7ekdacjys.cloudfront.net/Custom/Content/Products/10/19/1019787_video-game-microsoft-xbox-one-c-kinect-500gb_m2_636652936568204874",
+            "preço": "60",
+            "id": "3"
+
+        }
+
+        {
+            "nome": "Controle XYZ",
+            "imageURL": "https://cdn.awsli.com.br/300x300/1827/1827268/produto/196482012/controle-joy-con-nintendo-switch-e2be3bf8e6.jpg",
+            "preço": "60",
+            "id": "4"
+
+        }
+
+        {
+            "nome": "Console XYZ",
+            "imageURL": "https://meups.com.br/wp-content/uploads/2013/09/PS4-Brasil.jpg",
+            "preço": "60",
+            "id": "5"
+
+        }
+
+        {
+            "nome": "Controle e Console XYZ",
+            "imageURL": "https://1.bp.blogspot.com/-N7ft5t29Wk0/YGI70P_pPXI/AAAAAAABYIA/pzgUQRkmTDMEmrK11LIV6jIku1DbtXXRgCLcBGAsYHQ/s716/001%2BGame%2BBoy%2BAdvance.jpeg",
+            "preço": "60",
+            "id": "6"
+
+        }
+    ]
+}
